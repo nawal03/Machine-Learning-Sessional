@@ -2,6 +2,8 @@
 
 This repository includes my implementations of core machine learning algorithms as part of the Machine Learning sessional course.
 
+Checkout my ML Sessional project [here](https://github.com/Maneesha28/Stroke-Prediction-using-Neural-Network).
+
 ## 📚 Topics Covered
 
 - **Logistic Regression**  
